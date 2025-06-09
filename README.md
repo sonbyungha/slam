@@ -15,7 +15,7 @@
 
 ## ⚙️ 시스템 구성 블록도
 
-![구성 블록도](example/system_block.png)
+![구성 블록도](ERD.png)
 
 ### 통신 및 전원 구성
 - 검은 선: UART/RS232 통신
@@ -69,7 +69,7 @@
 
 | 로봇 시제품 (정면) | 로봇 시제품 (측면) |
 |------------------|------------------|
-| ![robot1](example/robot_front.jpg) | ![robot2](example/robot_side.jpg) |
+| ![robot1](robot_01.jpg) | ![robot2](robot_02.jpg) |
 
 ---
 
